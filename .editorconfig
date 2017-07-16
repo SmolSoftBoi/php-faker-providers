@@ -1,0 +1,20 @@
+# EditorConfig
+#
+# Copyright © 2017 Kristian Matthews. All rights reserved.
+
+root = true
+
+[*]
+indent_style = tab
+indent_size = 4
+trim_trailing_whitespace = true
+insert_final_newline = false
+
+# JavaScript & JSON
+[*.js*]
+indent_style = space
+
+# PHP
+[*.php]
+indent_style = space
+insert_final_newline = true

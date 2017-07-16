@@ -1,0 +1,5 @@
+# Composer
+vendor
+
+# JetBrains IDEs
+.idea/workspace.xml

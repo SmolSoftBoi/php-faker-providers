@@ -1,0 +1,11 @@
+{
+    "name": "epickris/faker-providers",
+    "autoload": {
+        "psr-4": {
+            "EpicKris\\": "src/"
+        }
+    }
+    "require": {
+        "fzaninotto/faker": "^1"
+    }
+}
