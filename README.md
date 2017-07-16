@@ -14,3 +14,11 @@ schoolDomain
 schoolUsername
 schoolTld
 ```
+
+### `EpicKris\Provider\Quiz`
+``` php
+quizName
+quizDescription
+quizQuestion
+quizAnswer
+```
